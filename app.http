@@ -2,7 +2,7 @@
 GET http://localhost:3000/
 
 ### Test GET Request
-GET http://localhost:3000/date
+GET http://localhost:3000/tasks
 
 GET http://localhost:3000/page
 
